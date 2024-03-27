@@ -10,7 +10,8 @@
     "category": "Advanture",
     "tags": ["Classic", "Social Issues"],
     "publisher": "J. B. Lippincott & Co.",
-    "yearOfPublishing": 1960
+    "yearOfPublishing": 1960,
+    "fill":"#e6194B"
   },
   {
     "bookId": 2,
@@ -23,7 +24,8 @@
     "category": "Science Fiction",
     "tags": ["Dystopian", "Political"],
     "publisher": "Secker & Warburg",
-    "yearOfPublishing": 1949
+    "yearOfPublishing": 1949,
+    "fill":"#f58231"
   },
   {
     "bookId": 3,
@@ -36,7 +38,8 @@
     "category": "Tragedy",
     "tags": ["Romance", "Historical Fiction"],
     "publisher": "Charles Scribner's Sons",
-    "yearOfPublishing": 1925
+    "yearOfPublishing": 1925,
+    "fill":"#3cb44b"
   },
   {
     "bookId": 4,
@@ -49,7 +52,8 @@
     "category": "Fantasy Fiction",
     "tags": ["Magic", "Adventure"],
     "publisher": "Bloomsbury",
-    "yearOfPublishing": 1997
+    "yearOfPublishing": 1997,
+    "fill":"#42d4f4"
   },
   {
     "bookId": 5,
@@ -62,7 +66,8 @@
     "category": "Novel",
     "tags": ["Coming-of-Age", "Literary Fiction"],
     "publisher": "Little, Brown and Company",
-    "yearOfPublishing": 1951
+    "yearOfPublishing": 1951,
+    "fill":"#4363d8"
   },
   {
     "bookId": 6,
@@ -75,7 +80,8 @@
     "category": "Fiction",
     "tags": ["Romance", "Classic"],
     "publisher": "T. Egerton, Whitehall",
-    "yearOfPublishing": 1813
+    "yearOfPublishing": 1813,
+    "fill":"#911eb4"
   },
   {
     "bookId": 7,
@@ -88,7 +94,8 @@
     "category": "High Fantasy",
     "tags": ["Adventure", "Middle-earth"],
     "publisher": "George Allen & Unwin",
-    "yearOfPublishing": 1937
+    "yearOfPublishing": 1937,
+    "fill":"#ffe119"
   },
   {
     "bookId": 8,
@@ -101,7 +108,8 @@
     "category": "Advanture",
     "tags": ["Adventure", "Classic"],
     "publisher": "Richard Bentley",
-    "yearOfPublishing": 1851
+    "yearOfPublishing": 1851,
+    "fill":"#ffe119"
   },
   {
     "bookId": 9,
@@ -114,7 +122,8 @@
     "category": "Adventure",
     "tags": ["Epic", "Adventure"],
     "publisher": "George Allen & Unwin",
-    "yearOfPublishing": 1954
+    "yearOfPublishing": 1954,
+    "fill":"#bfef45"
   },
   {
     "bookId": 10,
@@ -127,7 +136,8 @@
     "category": "Horror",
     "tags": ["Gothic", "Science Fiction"],
     "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
-    "yearOfPublishing": 1818
+    "yearOfPublishing": 1818,
+    "fill":"#aaffc3"
   },
   {
     "bookId": 11,
@@ -140,7 +150,8 @@
     "category": "Novel",
     "tags": ["Romance", "Gothic"],
     "publisher": "Smith, Elder & Co.",
-    "yearOfPublishing": 1847
+    "yearOfPublishing": 1847,
+    "fill":"#800000"
   },
   {
     "bookId": 12,
@@ -153,7 +164,8 @@
     "category": "Philosophical",
     "tags": ["Gothic", "Philosophical"],
     "publisher": "Ward, Lock & Co.",
-    "yearOfPublishing": 1890
+    "yearOfPublishing": 1890,
+    "fill":"#9A6324"
   },
   {
     "bookId": 13,
@@ -166,7 +178,8 @@
     "category": "Fiction",
     "tags": ["Philosophical", "Adventure"],
     "publisher": "HarperCollins",
-    "yearOfPublishing": 1988
+    "yearOfPublishing": 1988,
+    "fill":"#469990"
   },
   {
     "bookId": 14,
@@ -179,7 +192,8 @@
     "category": "Mystery",
     "tags": ["Thriller", "Mystery"],
     "publisher": "Doubleday",
-    "yearOfPublishing": 2003
+    "yearOfPublishing": 2003,
+    "fill":"#3cb44b"
   },
   {
     "bookId": 15,
@@ -192,7 +206,8 @@
     "category": "Young Adult",
     "tags": ["Dystopian", "Action"],
     "publisher": "Scholastic Corporation",
-    "yearOfPublishing": 2008
+    "yearOfPublishing": 2008,
+    "fill":"#911eb4"
   },
   {
     "bookId": 16,
@@ -205,7 +220,8 @@
     "category": "Fiction",
     "tags": ["Post-Apocalyptic", "Literary Fiction"],
     "publisher": "Alfred A. Knopf",
-    "yearOfPublishing": 2006
+    "yearOfPublishing": 2006,
+    "fill":"#f58231"
   },
   {
     "bookId": 17,
@@ -218,7 +234,8 @@
     "category": "Drama",
     "tags": ["Drama", "Historical Fiction"],
     "publisher": "Riverhead Books",
-    "yearOfPublishing": 2003
+    "yearOfPublishing": 2003,
+    "fill":"#e6194B"
   },
   {
     "bookId": 18,
@@ -231,7 +248,8 @@
     "category": "Science Fiction",
     "tags": ["Dystopian", "Social Commentary"],
     "publisher": "Chatto & Windus",
-    "yearOfPublishing": 1932
+    "yearOfPublishing": 1932,
+    "fill":"#000075"
   },
   {
     "bookId": 19,
@@ -244,7 +262,8 @@
     "category": "Historical Fiction",
     "tags": ["Romance", "American Civil War"],
     "publisher": "Macmillan Publishers",
-    "yearOfPublishing": 1936
+    "yearOfPublishing": 1936,
+    "fill":"#469990"
   },
   {
     "bookId": 20,
@@ -257,6 +276,7 @@
     "category": "Programming",
     "tags": ["Coming-of-Age", "Literary Fiction"],
     "publisher": "Pearson Education",
-    "yearOfPublishing": 2015
+    "yearOfPublishing": 2015,
+    "fill":"#808000"
   }
 ]
