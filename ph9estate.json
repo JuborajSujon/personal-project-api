@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "estate_title": "Luxury Oceanfront Mansion",
+    "segment_name": "Beachfront properties",
+    "description": "Imagine you see Blue Ocean from all 4 levels of your estate. This Beachfront Mansion provides all that one looks for when seeking the most desirable luxury lifestyle. Over 2,000 square feet of balcony space with unobstructed views of the Aqua Blue Pacific Ocean. The architect took full advantage of the perfect beachfront location by installing a wall of windows on the entire beach side of the mansion on the main floor so when you lounge in the living room, or cook / eat in the kitchen, or eat in the dining room you have a full view of the beach​. There are 20 ft windows from floor to ceilings overlooking the Atlantic Ocean.",
+    "price": "$12,500,000",
+    "status": "sale",
+    "area": "10000 sq ft",
+    "location": "Malibu, California",
+    "facilities": [
+      "Infinity Pool",
+      "Private Beach Access",
+      "Home Theater",
+      "Gourmet Kitchen",
+      "Spa",
+      "Wine Cellar"
+    ],
+    "image": [
+      "https://i.ibb.co/C11yZJC/Beach-Front-1.webp",
+      "https://i.ibb.co/J5TxLTL/Beach-Front-2.webp",
+      "https://i.ibb.co/TWvfvFf/Beach-Front-3.webp",
+      "https://i.ibb.co/X3KC4ZH/Beach-Front-4.webp",
+      "https://i.ibb.co/ftjn0Nv/Beach-Front-5.webp"
+    ],
+    "bedrooms": 10,
+    "bathrooms": 13,
+    "garage": 3,
+    "year_built": 2016
+  },
+  {
+    "id": 2,
+    "estate_title": "Exclusive Penthouse in Dubai Marina",
+    "segment_name": "Penthouse",
+    "description": "Just a 8-minute walk from Marina Beach and 0.8 miles from Barasti Beach, bnbmehomes - Luxury Penthouse in Dubai Marina w- Ain Dubai View-2301 features accommodations in Dubai with an outdoor swimming pool. This apartment provides free private parking, a 24-hour front desk, and free Wifi. The accommodation offers airport transfers, while a car rental service is also available.Opening onto a patio with city views, the spacious air-conditioned apartment consists of 5 bedrooms. Providing a balcony with lake views, this apartment also offers a cable flat-screen TV, a well-equipped kitchen with a dishwasher, an oven, and a microwave, as well as 5 bathrooms with a bath and a hair dryer. This apartment is non-smoking and soundproof. Mina Seyahi Beach is a 19-minute walk from the apartment, while The Walk at JBR is 0.8 miles away. The nearest airport is Al Maktoum International Airport, 19 miles from bnbmehomes - Luxury Penthouse in Dubai Marina w- Ain Dubai View-2301.",
+    "price": "$9,700,000",
+    "status": "sale",
+    "area": "6,000 sq ft",
+    "location": "Dubai, UAE",
+    "facilities": [
+      "Private Terrace",
+      "Infinity Pool",
+      "Gym",
+      "Sauna",
+      "Concierge Service",
+      "Smart Home System"
+    ],
+    "image": [
+      "https://i.ibb.co/vQHGNXX/Dubai-Marina-1.webp",
+      "https://i.ibb.co/tZNVSsD/Dubai-Marina-2.webp",
+      "https://i.ibb.co/FKh38d2/Dubai-Marina-3.webp",
+      "https://i.ibb.co/mFRMbxC/Dubai-Marina-4.webp",
+      "https://i.ibb.co/myn3s3D/Dubai-Marina-5.webp"
+    ],
+    "bedrooms": 7,
+    "bathrooms": 9,
+    "garage": 2,
+    "year_built": 2019
+  },
+  {
+    "id": 3,
+    "estate_title": "Luxurious Villa in French Riviera",
+    "segment_name": "Villas",
+    "description": "This contemporary villa is located in a gated domain in one of the most exclusive golf and spa resorts in Europe. The property is situated in the charming town of Tourrettes, close to the beautiful medieval village of Seillans. The villa is set on two levels and is situated on a quiet cul-de-sac offering incredible hillside views. This modern, elegant home has been newly built to high standards and offers 5 bedrooms, 6 bathrooms, a fully fitted kitchen, a beautiful living room, an expansive terrace and a large 18 x 7m heated saltwater pool. In addition, the property has spacious landscaped gardens with olive trees and flower beds, ideal for children. This beautiful getaway offers a peaceful and luxurious setting with views over the golf course and surrounding hillside all while being a short distance to the nearby lake, Lac de Saint Cassien, beautiful medieval villages and fantastic vineyards. Moreover, this luxury holiday villa is within 30 minutes to the sandy beach of Mandelieu and 45 minutes to the seaside resort of Cannes.",
+    "price": "$25,000",
+    "status": "rent",
+    "area": "4,000 sq ft",
+    "location": "French Riviera, France",
+    "facilities": [
+      "Private Pool",
+      "Landscaped Gardens",
+      "Home Gym",
+      "Wine Cellar",
+      "Guest House",
+      "Security System"
+    ],
+    "image": [
+      "https://ibb.co/tC9y210",
+      "https://ibb.co/ZzMTP0T",
+      "https://ibb.co/M9krxpj",
+      "https://ibb.co/c1Pv8vd",
+      "https://ibb.co/PjkxKCF"
+    ],
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "garage": 3,
+    "year_built": 2015
+  },
+  {
+    "id": 4,
+    "estate_title": "Magnificent Hilltop Estate in Beverly Hills",
+    "segment_name": "Mansions",
+    "description": "Perched approximately 200 meters (650 feet) above Beverly Hills, California, is a European-flavored residence that recently hit the market for $87 million. Past its gates, a 700-foot private drive hugs the mountainside as it leads up a steep incline to reveal a dramatic, 7.8-acre estate. According to the listing, the eight-bedroom, 14-bath residence unfolds over three floors and 21,800 square feet. The home’s hefty asking price comes to about $3,990 per square foot which is more than double the $1,801 average price per square foot achieved in the neighborhood in the fourth quarter of 2021, according to The Elliman Report. But it’s a relative bargain compared with a record-breaking sale from October, when venture capitalist Marc Andreessen reportedly paid $177 million for an 11,810-square-foot Malibu home, bringing the price per square foot to a staggering $14,987.",
+    "price": "$87,000,000",
+    "status": "sale",
+    "area": "21,800 sq ft",
+    "location": "Beverly Hills, California",
+    "facilities": [
+      "Infinity Pool",
+      "Tennis Court",
+      "Home Theater",
+      "Library",
+      "Outdoor chess set",
+      "Guest House"
+    ],
+    "image": [
+      "https://ibb.co/PGVzPbK",
+      "https://ibb.co/Bcg49Th",
+      "https://ibb.co/8rwbB81",
+      "https://ibb.co/k93JNvf",
+      "https://ibb.co/PTndYFV"
+    ],
+    "bedrooms": 9,
+    "bathrooms": 12,
+    "garage": 5,
+    "year_built": 2017
+  },
+  {
+    "id": 5,
+    "estate_title": "Luxury Chalet in Swiss Alps",
+    "segment_name": "Villas",
+    "description": "Magnificent views? Check! Private sauna, gym and pool? Check! Is this for real? Yes! Chalet Peak is the ultimate luxury getaway to the Swiss Alps. The chalet has 5 bedrooms and it is designed with floor-to-ceiling glass walls to maximise the snowcapped mountain views all around. With a contemporary design, state-of-the-art amenities and lots of entertainment, Chalet Peak is located just a few minutes from Zermatt Village. If not here to hit the ski slopes, you can go cycling, or paragliding or you can enjoy a BBQ feast on your private outdoor terrace. The chalet has underfloor heating which is super nice in the winter season and the living room is designed with full-length glass walls so you can enjoy the snowcapped mountain views while sitting on the sofa or while dining together with your friends and family. The chalet also has a covered terrace with a relaxing chair, table and a plush blanket. A perfect spot to relax and breathe in the fresh mountain air. The Klein Matterhorn Lift is just a short stroll away from the chalet and the same goes for the village. Wonderful!",
+    "price": "$15,800,000",
+    "status": "sale",
+    "area": "8,500 sq ft",
+    "location": "Swiss Alps, Switzerland",
+    "facilities": [
+      "Ski Room",
+      "Sauna",
+      "Outdoor Hot Tub",
+      "Home Theater",
+      "Fireplace",
+      "Fitness Room"
+    ],
+    "image": [
+      "https://ibb.co/WFsbwt3",
+      "https://ibb.co/ns6YQbx",
+      "https://ibb.co/JcQDtRG",
+      "https://ibb.co/8NSk7P0",
+      "https://ibb.co/SRmd8YW"
+    ],
+    "bedrooms": 8,
+    "bathrooms": 12,
+    "garage": 2,
+    "year_built": 2014
+  },
+  {
+    "id": 6,
+    "estate_title": "Private Island Resort in Maldives",
+    "segment_name": "Resort",
+    "description": "The pioneer of the barefoot luxury vibe—now a Maldives staple—and still the place that does it best. But while it looks like a castaway fantasy island hewn entirely from driftwood, it's also secretly souped up, with serious eco-credentials to boot. Nothing is as exciting as a bumpy arrival by seaplane, particularly in the Maldives—it's like stepping into a 3D version of the Blue Planet. Suddenly you’re in the Baa Atoll, surrounded by crystal clear waters filled with manta rays and turtles; it's a blue-on-blue world, a tropical paradise of verdant palm trees, warm air, and a soft breeze. Suddenly Winter feels far away as the pilot says, the outside temperature is 84 degrees.” Even if you’ve flown a long way to get here, it's immediately better than a painkiller just to be here. Sun, sea, sand—the Maldives does what it says on the tin with the added boon of knowing that the luxury is going to be turbo-boosted, yet at the same time mainlining a barefoot simplicity. This tightrope is key to the experience. Step out of the plane barefoot and walk down the long wooden jetty onto your very own island—all the while knowing that some of the best sushi in the world awaits.",
+    "price": "$50,000",
+    "status": "rent",
+    "area": "20 acres",
+    "location": "Kudadoo, Maldives",
+    "facilities": [
+      "Overwater Villas",
+      "Private Beaches",
+      "Spa",
+      "Fine Dining Restaurants",
+      "Water Sports Center",
+      "Yacht Marina"
+    ],
+    "image": [
+      "https://ibb.co/9n81Z0B",
+      "https://ibb.co/zH3X2N2",
+      "https://ibb.co/7nH1m5J",
+      "https://ibb.co/Rvp4WMS",
+      "https://ibb.co/Y8PMxJ5"
+    ],
+    "bedrooms": 10,
+    "bathrooms": 15,
+    "garage": null,
+    "year_built": 2020
+  },
+  {
+    "id": 7,
+    "estate_title": "Luxury Mansion in Beverly Park",
+    "segment_name": "Mansions",
+    "description": "Beverly Park in Beverly Hills, California has many luxury mansions, including some that have sold for over $100 million. The neighborhood is known for its exclusivity and the size of its homes. Some of these mansions have been designed by star architects like William Hablinski and Richard Landry. but an additional deal with furnishings from the home brought the tag up to around $60 million, according to a source familiar with the deal. Spanning 10 acres and centering on a 40,600-square-foot mansion, the estate had been floating on and off the market since 2017. It surfaced for sale at $160 million last summer before eventually hitting the auction block with no reserve earlier this year. It’s also Southern California’s most expensive on-market real estate deal so far this year, beating out a Mediterranean-style spot in Beverly Hills that sold for $140 million in 2010, according to the Multiple Listing Service.",
+    "price": "$160,000,000",
+    "status": "sale",
+    "area": "40,600 sq ft",
+    "location": "Beverly Park, California",
+    "facilities": [
+      "Infinity Pool",
+      "Tennis Court",
+      "Home Theater",
+      "Wine Cellar",
+      "Gourmet Kitchen",
+      "Guest House"
+    ],
+    "image": [
+      "https://ibb.co/44j1D11",
+      "https://ibb.co/D83L2pb",
+      "https://ibb.co/pvThjXK",
+      "https://ibb.co/B4D7Kfh",
+      "https://ibb.co/B6bsy39"
+    ],
+    "bedrooms": 28,
+    "bathrooms": 38,
+    "garage": 7,
+    "year_built": 1978
+  },
+  {
+    "id": 8,
+    "estate_title": "Luxury Estate in Aspen",
+    "segment_name": "Villas",
+    "description": "The next generation of Aspen luxury is here. Located in the historic West End neighborhood, this new-construction, nature-inspired home combines contemporary architecture, sophisticated interiors, and a complete complement of amenities designed to create the perfect Aspen retreat. Spanning more than 6,000 square feet, this extraordinary residence offers 5 bedroom suites and multiple spaces to gather and entertain. As you step inside, you'll immediately be captivated by the soaring 21-foot ceilings and the architectural floating staircase that harmonizes form and function. Hand-crafted Quantum windows flood the home with natural light and frame views of the surrounding peaks, ensuring that natural beauty is seamlessly integrated into your daily life. Designed to cater to the most discerning tastes, this home features top-of-the-line finishes throughout. From the elegant white oak wide-plank floors to the Waterworks fixtures and custom millwork found throughout the home, every aspect has been carefully curated to create a refined and sophisticated environment. .",
+    "price": "$10,750,000",
+    "status": "sale",
+    "area": "6,019 sq ft",
+    "location": "Aspen, Colorado",
+    "facilities": [
+      "Outdoor Pool",
+      "Home Theater",
+      "Wine Cellar",
+      "Ski Room",
+      "Fitness Center",
+      "Guest House"
+    ],
+    "image": [
+      "https://ibb.co/y5nDkh6",
+      "https://ibb.co/4dMqwL2",
+      "https://ibb.co/tsHS4gb",
+      "https://ibb.co/pwzWwx6",
+      "https://ibb.co/tY0Qq7Y"
+    ],
+    "bedrooms": 6,
+    "bathrooms": 8,
+    "garage": 1,
+    "year_built": 2023
+  }
+]
