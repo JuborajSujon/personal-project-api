@@ -1,7 +1,5 @@
 [{
-  "_id": {
-    "$oid": "66630b90461d1f1a066f5ea6"
-  },
+  "_id": 1001,
   "meal_title": "Croissants Sandwiches",
   "meal_category": "Breakfast",
   "meal_subcategory": "Continental Breakfast",
@@ -110,9 +108,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "66630df5461d1f1a066f5ea8"
-  },
+  "_id": 1002,
   "meal_title": "Bread Butter and Jam",
   "meal_category": "Breakfast",
   "meal_subcategory": "Continental Breakfast",
@@ -211,9 +207,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "66630ed3461d1f1a066f5ea9"
-  },
+  "_id": 1003,
   "meal_title": "Fresh Fruit Salad",
   "meal_category": "Breakfast",
   "meal_subcategory": "Continental Breakfast",
@@ -324,9 +318,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "66631024461d1f1a066f5eaa"
-  },
+  "_id": 1004,
   "meal_title": "Yogurt Parfaits",
   "meal_category": "Breakfast",
   "meal_subcategory": "Continental Breakfast",
@@ -481,9 +473,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "666312f48e626419d90b37e0"
-  },
+  "_id": 1005,
   "meal_title": "Freshly Orange Juice",
   "meal_category": "Breakfast",
   "meal_subcategory": "Continental Breakfast",
@@ -544,9 +534,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "666315ef8e626419d90b37e2"
-  },
+  "_id": 1006,
   "meal_title": "Scrambled Eggs",
   "meal_category": "Breakfast",
   "meal_subcategory": "Traditional Breakfast",
@@ -603,9 +591,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "666317368e626419d90b37e3"
-  },
+  "_id": 1007,
   "meal_title": "Bacon and Sausages",
   "meal_category": "Breakfast",
   "meal_subcategory": "Traditional Breakfast",
@@ -692,9 +678,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "6663180c8e626419d90b37e4"
-  },
+  "_id": 1008,
   "meal_title": "Hash Browns",
   "meal_category": "Breakfast",
   "meal_subcategory": "Traditional Breakfast",
@@ -770,9 +754,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "6663191c8e626419d90b37e5"
-  },
+  "_id": 1009,
   "meal_title": "Hash Browns Pancakes",
   "meal_category": "Breakfast",
   "meal_subcategory": "Traditional Breakfast",
@@ -830,9 +812,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "666319fe45c6cb934c77d98b"
-  },
+  "_id": 1010,
   "meal_title": "Fresh Grapes Fruit Juice",
   "meal_category": "Breakfast",
   "meal_subcategory": "Traditional Breakfast",
@@ -883,9 +863,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "66631c9d45c6cb934c77d98e"
-  },
+  "_id": 1011,
   "meal_title": "Fresh Green Tea",
   "meal_category": "Breakfast",
   "meal_subcategory": "Traditional Breakfast",
@@ -938,9 +916,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "66631e8245c6cb934c77d98f"
-  },
+  "_id": 1012,
   "meal_title": "Smoothie Bowls",
   "meal_category": "Breakfast",
   "meal_subcategory": "Healthy Breakfast",
@@ -998,9 +974,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "66631f3e45c6cb934c77d990"
-  },
+  "_id": 1013,
   "meal_title": "Avocado Toast",
   "meal_category": "Breakfast",
   "meal_subcategory": "Healthy Breakfast",
@@ -1057,9 +1031,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "66631fe145c6cb934c77d991"
-  },
+  "_id": 1014,
   "meal_title": "Boiled Eggs",
   "meal_category": "Breakfast",
   "meal_subcategory": "Healthy Breakfast",
@@ -1110,9 +1082,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "666320fd45c6cb934c77d993"
-  },
+  "_id": 1015,
   "meal_title": "Tropical Carrot Juice",
   "meal_category": "Breakfast",
   "meal_subcategory": "Healthy Breakfast",
@@ -1166,9 +1136,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "666321a445c6cb934c77d994"
-  },
+  "_id": 1016,
   "meal_title": "Juice With Turmeric",
   "meal_category": "Breakfast",
   "meal_subcategory": "Healthy Breakfast",
@@ -1224,9 +1192,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "6663244745c6cb934c77d997"
-  },
+  "_id": 1017,
   "meal_title": "Grilled Chicken Sandwich",
   "meal_category": "Lunch",
   "meal_subcategory": "Main Courses",
@@ -1285,9 +1251,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "6663255945c6cb934c77d998"
-  },
+  "_id": 1018,
   "meal_title": "Hummus Veggie Wrap",
   "meal_category": "Lunch",
   "meal_subcategory": "Main Courses",
@@ -1336,9 +1300,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "666325e845c6cb934c77d999"
-  },
+  "_id": 1019,
   "meal_title": "Beef Tacos",
   "meal_category": "Lunch",
   "meal_subcategory": "Main Courses",
@@ -1383,9 +1345,7 @@
   "ratingCount": {}
 },
 {
-  "_id": {
-    "$oid": "666328ff45c6cb934c77d99a"
-  },
+  "_id": 1020,
   "meal_title": "Quinoa Salad",
   "meal_category": "Lunch",
   "meal_subcategory": "Main Courses",
@@ -1444,9 +1404,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "666329b345c6cb934c77d99b"
-  },
+  "_id": 1021,
   "meal_title": "Pasta Primavera",
   "meal_category": "Lunch",
   "meal_subcategory": "Main Courses",
@@ -1505,9 +1463,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "66632a6245c6cb934c77d99c"
-  },
+  "_id": 1022,
   "meal_title": "Margherita Pizza",
   "meal_category": "Lunch",
   "meal_subcategory": "Main Courses",
@@ -1566,9 +1522,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "66632d1045c6cb934c77d9a0"
-  },
+  "_id": 1023,
   "meal_title": "Coleslaw",
   "meal_category": "Lunch",
   "meal_subcategory": "Sides Dishes",
@@ -1627,9 +1581,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "66632e1d45c6cb934c77d9a2"
-  },
+  "_id": 1024,
   "meal_title": "Mixed Green Salad",
   "meal_category": "Lunch",
   "meal_subcategory": "Sides Dishes",
@@ -1684,9 +1636,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "66632ed245c6cb934c77d9a3"
-  },
+  "_id": 1025,
   "meal_title": "Chocolate Chip Cookies",
   "meal_category": "Lunch",
   "meal_subcategory": "Desserts",
@@ -1745,9 +1695,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "66633c3845c6cb934c77d9a6"
-  },
+  "_id": 1026,
   "meal_title": "Roast Chicken with Vegetables",
   "meal_category": "Dinner",
   "meal_subcategory": "Main Courses",
@@ -1824,9 +1772,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "66633cd845c6cb934c77d9a7"
-  },
+  "_id": 1027,
   "meal_title": "Spaghetti Bolognese",
   "meal_category": "Dinner",
   "meal_subcategory": "Main Courses",
@@ -1885,9 +1831,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "66633d6f45c6cb934c77d9a8"
-  },
+  "_id": 1028,
   "meal_title": "Grilled Salmon with Rice",
   "meal_category": "Dinner",
   "meal_subcategory": "Main Courses",
@@ -1955,9 +1899,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "66633e0d45c6cb934c77d9a9"
-  },
+  "_id": 1047,
   "meal_title": "Vegetarian Garden Stir-Fry",
   "meal_category": "Dinner",
   "meal_subcategory": "Main Courses",
@@ -2025,9 +1967,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "666341ff45c6cb934c77d9ac"
-  },
+  "_id": 1029,
   "meal_title": "Stuffed Bell Peppers",
   "meal_category": "Dinner",
   "meal_subcategory": "Main Courses",
@@ -2095,9 +2035,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "6663428545c6cb934c77d9ad"
-  },
+  "_id": 1030,
   "meal_title": "Mashed Potatoes",
   "meal_category": "Dinner",
   "meal_subcategory": "Sides Dishes",
@@ -2153,9 +2091,7 @@
   }
 },
 {
-  "_id": {
-    "$oid": "6663433545c6cb934c77d9ae"
-  },
+  "_id": 1031,
   "meal_title": "Steamed broccoli",
   "meal_category": "Dinner",
   "meal_subcategory": "Sides Dishes",
@@ -2196,9 +2132,7 @@
   "ratingCount": {}
 },
 {
-  "_id": {
-    "$oid": "666343b5a0f72c3d33505ca5"
-  },
+  "_id": 1032,
   "meal_title": "Garden Salad",
   "meal_category": "Dinner",
   "meal_subcategory": "Sides Dishes",
@@ -2242,9 +2176,7 @@
   "ratingCount": {}
 },
 {
-  "_id": {
-    "$oid": "66634453a0f72c3d33505ca6"
-  },
+  "_id": 1033,
   "meal_title": "Garlic Knots",
   "meal_category": "Dinner",
   "meal_subcategory": "Sides Dishes",
@@ -2285,9 +2217,7 @@
   "ratingCount": {}
 },
 {
-  "_id": {
-    "$oid": "666345b0a0f72c3d33505ca8"
-  },
+  "_id": 1034,
   "meal_title": "Watermelon Sour Patch Cocktail",
   "meal_category": "Dinner",
   "meal_subcategory": "Drinks",
@@ -2330,9 +2260,7 @@
   "ratingCount": {}
 },
 {
-  "_id": {
-    "$oid": "6663461aa0f72c3d33505ca9"
-  },
+  "_id": 1035,
   "meal_title": "Spicy Pineapple Margarita",
   "meal_category": "Dinner",
   "meal_subcategory": "Drinks",
@@ -2375,9 +2303,7 @@
   "ratingCount": {}
 },
 {
-  "_id": {
-    "$oid": "666314998e626419d90b37e1"
-  },
+  "_id": 1036,
   "meal_title": "Coffee",
   "meal_category": "Breakfast",
   "meal_subcategory": "Continental Breakfast",
@@ -2470,9 +2396,7 @@
   "ratingCount": {}
 },
 {
-  "_id": {
-    "$oid": "66631bd445c6cb934c77d98d"
-  },
+  "_id": 1037,
   "meal_title": "Fresh Fruit Platter",
   "meal_category": "Breakfast",
   "meal_subcategory": "Traditional Breakfast",
@@ -2533,9 +2457,7 @@
   "ratingCount": {}
 },
 {
-  "_id": {
-    "$oid": "6663303b45c6cb934c77d9a5"
-  },
+  "_id": 1038,
   "meal_title": "Brownies",
   "meal_category": "Lunch",
   "meal_subcategory": "Desserts",
@@ -2581,9 +2503,7 @@
   "ratingCount": {}
 },
 {
-  "_id": {
-    "$oid": "66631b5545c6cb934c77d98c"
-  },
+  "_id": 1039,
   "meal_title": "Oatmeal Toppings Bar",
   "meal_category": "Breakfast",
   "meal_subcategory": "Traditional Breakfast",
@@ -2661,9 +2581,7 @@
   "ratingCount": {}
 },
 {
-  "_id": {
-    "$oid": "66632fab45c6cb934c77d9a4"
-  },
+  "_id": 1040,
   "meal_title": "Fresh Fruit Cups",
   "meal_category": "Lunch",
   "meal_subcategory": "Desserts",
@@ -2709,9 +2627,7 @@
   "ratingCount": {}
 },
 {
-  "_id": {
-    "$oid": "6663228145c6cb934c77d995"
-  },
+  "_id": 1041,
   "meal_title": "Pineapple Orange Sunshine",
   "meal_category": "Breakfast",
   "meal_subcategory": "Healthy Breakfast",
@@ -2836,9 +2752,7 @@
   "ratingCount": {}
 },
 {
-  "_id": {
-    "$oid": "6663232d45c6cb934c77d996"
-  },
+  "_id": 1042,
   "meal_title": "Grape Orange Lemon Juice",
   "meal_category": "Breakfast",
   "meal_subcategory": "Healthy Breakfast",
@@ -2963,9 +2877,7 @@
   "ratingCount": {}
 },
 {
-  "_id": {
-    "$oid": "66632bbb45c6cb934c77d99e"
-  },
+  "_id": 1043,
   "meal_title": "Sweet Potato Fries",
   "meal_category": "Lunch",
   "meal_subcategory": "Sides Dishes",
@@ -3099,9 +3011,7 @@
   "ratingCount": {}
 },
 {
-  "_id": {
-    "$oid": "6669d4bd6c1c9c0393b98964"
-  },
+  "_id": 1044,
   "meal_title": "Kale Caesar Salad",
   "meal_category": "Dinner",
   "meal_subcategory": "Main Courses",
@@ -3145,9 +3055,7 @@
   "ratingCount": {}
 },
 {
-  "_id": {
-    "$oid": "6669e34a69e9fe032c49c9df"
-  },
+  "_id": 1045,
   "meal_title": "Chicken, Avocado and Mango Salad",
   "meal_category": "Breakfast",
   "meal_subcategory": "Sides Dishes",
@@ -3189,9 +3097,7 @@
   "ratingCount": {}
 },
 {
-  "_id": {
-    "$oid": "66632b2a45c6cb934c77d99d"
-  },
+  "_id": 1046,
   "meal_title": "Caesar Salad with Grilled Chicken",
   "meal_category": "Lunch",
   "meal_subcategory": "Main Courses",
